@@ -6,3 +6,5 @@ add a line
 
 modify local 2
 - example for conflict
+
+# edit on github
